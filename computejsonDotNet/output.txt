@@ -1,0 +1,2 @@
+{ "isbn13": "9781572319950", "title": "Hrogramming Windows","author": "Petzold","quantityOnHand": 3,"quantityBackordered": 2,"quantityOnOrder": 3,"reorderPoint": 5,"minimumOrder": 10,"_recordNumber": 0,"_sequenceNumber": 0 }
+{"isbn13": "9780735619678","title": "Code Complete","author": "McConnell","quantityOnHand": 0,"quantityBackordered": 4,"quantityOnOrder": 1,"reorderPoint": 0,"minimumOrder": 1,"_recordNumber": 1,"_sequenceNumber": 0 }

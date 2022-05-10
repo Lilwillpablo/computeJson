@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "computejsonDotNet": {
+      "commandName": "Project",
+      "commandLineArgs": "--compute=\"@@quantityOnHand - @@quantityBackordered\""
+    }
+  }
+}
